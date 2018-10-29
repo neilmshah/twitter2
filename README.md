@@ -1,4 +1,4 @@
-# Project 5,6 - *twitter*
+# Twitter
 
 **twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
@@ -6,32 +6,26 @@ Time spent: **12** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality are completed:
 
-- [x] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can sign in using OAuth login flow. (1pt)
-- [x] User can Logout. (1pt)
-- [x] Create Data Models for User and Tweet. (1pt)
-- [x] User can view last 20 tweets from their home timeline with the user profile picture, username, tweet text, and timestamp. (2pts)
-- [x] User can pull to refresh. (1pt)
-- [x] User can tap the retweet and favorite buttons in a tweet cell to retweet and/or favorite a tweet. (2pts)
-- [x] Using AutoLayout, the Tweet cell should adjust it's layout for iPhone 7, Plus and SE device sizes as well as accommodate device rotation. (1pt)
+- [x] User sees app icon in home screen and styled launch screen. 
+- [x] User can sign in using OAuth login flow. 
+- [x] User can Logout. 
+- [x] Create Data Models for User and Tweet. 
+- [x] User can view last 20 tweets from their home timeline with the user profile picture, username, tweet text, and timestamp. 
+- [x] User can pull to refresh.
+- [x] User can tap the retweet and favorite buttons in a tweet cell to retweet and/or favorite a tweet. 
+- [x] Using AutoLayout, the Tweet cell should adjust it's layout for iPhone 7, Plus and SE device sizes as well as accommodate device rotation. 
 - [x] User can tap on a tweet to view it in a detail view, with controls to retweet, favorite, and reply.
 - [x] User can compose a new tweet by tapping on a compose button
 - [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140)
 - [x] User can view their profile in a profile tab
-
-The following **stretch** features are implemented:
-
-- [x] The current signed in user will be persisted across restarts. (1pt)
-- [x] Each tweet should display the relative timestamp for each tweet "8m", "7h". (1pt)
-- [x] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count. (1pt)
+- [x] The current signed in user will be persisted across restarts. 
+- [x] Each tweet should display the relative timestamp for each tweet "8m", "7h". 
+- [x] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count. 
 - [x] Profile view should include that user's timeline
 - [x] After creating a new tweet, a user should be able to view it in the timeline immediately without refetching the timeline from the network.
 - [x] User can reply to any tweet, and replies should be prefixed with the username and the reply_id should be set when posting the tweet
-
-
-The following **additional** features are implemented:
 - [x] Progress indicator implemented for all loading features
 
 
