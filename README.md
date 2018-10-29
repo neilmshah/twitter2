@@ -31,28 +31,18 @@ The following **stretch** features are implemented:
 - [x] User can reply to any tweet, and replies should be prefixed with the username and the reply_id should be set when posting the tweet
 
 
-
 The following **additional** features are implemented:
 - [x] Progress indicator implemented for all loading features
 
-
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1.
-2.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/dO8ZEwg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## Credits
 
@@ -62,7 +52,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2018] [Neil Shah]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
